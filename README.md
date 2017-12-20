@@ -1,4 +1,4 @@
-# Fixing-Cloudflare-Error-524
+# Fixing Cloudflare Error 524
 This guide will show you how to fix Cloudflare's Error 524 (A timeout occurred)
 
 # Explanation
