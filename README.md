@@ -12,9 +12,9 @@ This error is commonly caused by a long-running process on the origin server, su
 To fix this, you need to send a header or data earlier than your "long-running process".
 
 # "Long-running process" Samples
-[PHP CODE](https://github.com/marcialpaulg/Fixing-Cloudflare-Error-524/blob/master/long-running-proccess.php)
+see [PHP CODE](https://github.com/marcialpaulg/Fixing-Cloudflare-Error-524/blob/master/long-running-proccess.php)
 
 # Fixing Samples
-[PHP CODE](https://github.com/marcialpaulg/Fixing-Cloudflare-Error-524/blob/master/long-running-proccess-FIXED.php)
+see [PHP CODE](https://github.com/marcialpaulg/Fixing-Cloudflare-Error-524/blob/master/long-running-proccess-FIXED.php)
 
 Author: Marcial Paul G. <im.codename@gmail.com>
