@@ -15,6 +15,7 @@ To fix this, you need to send a header or data earlier than your "long-running p
 see [PHP CODE](https://github.com/marcialpaulg/Fixing-Cloudflare-Error-524/blob/master/long-running-proccess.php)
 
 # Fixing Samples
-see [PHP CODE](https://github.com/marcialpaulg/Fixing-Cloudflare-Error-524/blob/master/long-running-proccess-FIXED.php)
+see [PHP CODE FIX 1](https://github.com/marcialpaulg/Fixing-Cloudflare-Error-524/blob/master/long-running-proccess-FIXED.php)
+[PHP CODE FIX 2](https://github.com/marcialpaulg/Fixing-Cloudflare-Error-524/blob/master/long-running-proccess-FIXED-2.php)
 
 Author: Marcial Paul G. <im.codename@gmail.com>
