@@ -6,6 +6,7 @@
 
 // sending a data.
 str_pad('', 4096, "\n"); // send 4kb of new line to browser, just make sure that this new line will not affect your code.
+// if you have output compression, make sure your data will reach >4KB.
 
 
 sleep(110);
