@@ -5,7 +5,7 @@
 // sending a header to fix the error is currently impossible in PHP versions at the moment.
 
 // sending a data.
-echo "\n"; // new line, just make sure that this new line will not affect your code.
+str_pad('', 4096, "\n"); // send 4kb of new line to browser, just make sure that this new line will not affect your code.
 
 
 sleep(110);
