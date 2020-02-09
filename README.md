@@ -19,3 +19,7 @@ see [PHP CODE FIX 1](https://github.com/marcialpaulg/Fixing-Cloudflare-Error-524
 [PHP CODE FIX 2](https://github.com/marcialpaulg/Fixing-Cloudflare-Error-524/blob/master/long-running-proccess-FIXED-2.php)
 
 Author: Marcial Paul G. <im.codename@gmail.com>
+
+# Not working
+Option #1: Turn off any compression that may minify the response of the file (gzip/deflate/br in apache/nginx)
+Option #2: increment `$spacer_size` variable by 1 until it works
