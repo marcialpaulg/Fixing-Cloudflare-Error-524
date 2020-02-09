@@ -22,4 +22,5 @@ Author: Marcial Paul G. <im.codename@gmail.com>
 
 # Not working
 Option #1: Turn off any compression that may minify the response of the file (gzip/deflate/br in apache/nginx)
+
 Option #2: increment `$spacer_size` variable by 1 until it works
