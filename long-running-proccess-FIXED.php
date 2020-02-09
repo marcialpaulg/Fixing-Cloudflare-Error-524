@@ -5,7 +5,8 @@
 // sending a header to fix the error is currently impossible in PHP versions at the moment.
 
 // sending a data.
-echo str_pad('', 8192, "\n"); // send 8kb of new line to browser, just make sure that this new line will not affect your code.
+$spacer_size = 8; // increment me until it works
+echo str_pad('', (1024 * $spacer_size), "\n"); // send 8kb of new line to browser (default), just make sure that this new line will not affect your code.
 // if you have output compression, make sure your data will reach >8KB. 
 
 sleep(110);
